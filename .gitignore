@@ -1,0 +1,15 @@
+# Virtual Environment
+env/
+
+# Dataset folder
+Data_Sets/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env

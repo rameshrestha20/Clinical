@@ -1,0 +1,14 @@
+{
+    "action_mapping": {
+        "0": "No aggressive treatment",
+        "1": "Aggressive treatment"
+    },
+    "feature_columns": [
+        "age",
+        "gender"
+    ],
+    "reward_mapping": {
+        "1": "Survived",
+        "-1": "Died"
+    }
+}
